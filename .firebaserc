@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "angularproject2021-af51f"
+  },
+  "targets": {
+    "angularproject2021-af51f": {
+      "hosting": {
+        "angular": [
+          "angularproject2021-af51f"
+        ]
+      }
+    }
+  }
+}
